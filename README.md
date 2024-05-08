@@ -1,1 +1,1 @@
-# Proiect1---QA-Engineer
+# Proiect1 - QA Engineer
